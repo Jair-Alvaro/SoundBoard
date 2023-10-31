@@ -14,6 +14,7 @@
 		E021260B2AF19EA0001A3841 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E02126092AF19EA0001A3841 /* SoundBoard.xcdatamodeld */; };
 		E021260D2AF19EA2001A3841 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E021260C2AF19EA2001A3841 /* Assets.xcassets */; };
 		E02126102AF19EA2001A3841 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E021260E2AF19EA2001A3841 /* LaunchScreen.storyboard */; };
+		E021261A2AF1A8C1001A3841 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02126192AF1A8C1001A3841 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E021260C2AF19EA2001A3841 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E021260F2AF19EA2001A3841 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E02126112AF19EA2001A3841 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E02126192AF1A8C1001A3841 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E02126022AF19EA0001A3841 /* SceneDelegate.swift */,
 				E02126042AF19EA0001A3841 /* ViewController.swift */,
 				E02126062AF19EA0001A3841 /* Main.storyboard */,
+				E02126192AF1A8C1001A3841 /* SoundViewController.swift */,
 				E021260C2AF19EA2001A3841 /* Assets.xcassets */,
 				E021260E2AF19EA2001A3841 /* LaunchScreen.storyboard */,
 				E02126112AF19EA2001A3841 /* Info.plist */,
@@ -145,6 +148,7 @@
 				E02126052AF19EA0001A3841 /* ViewController.swift in Sources */,
 				E02126012AF19EA0001A3841 /* AppDelegate.swift in Sources */,
 				E02126032AF19EA0001A3841 /* SceneDelegate.swift in Sources */,
+				E021261A2AF1A8C1001A3841 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
